@@ -1,0 +1,20 @@
+transmon:
+  dim: 4
+  freq_ge: 0
+  freq_ef: 0
+  anharmonicity: 0.2
+  T1: 0
+  T2: 0
+
+resonator:
+  freq_r: 0
+  T1: 0 
+  T2: 0
+
+drive:
+  max_amplitude: 2.0
+  duration: 10.0
+  kappa: 20.0
+  
+error:
+  strength: 1.0

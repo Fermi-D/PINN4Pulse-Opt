@@ -1,0 +1,9 @@
+network:
+  num_input: 1
+  num_output: 6
+
+train:
+  k: 1
+  l: 2
+  learning_rate: 0.001
+  num_iteration: 200

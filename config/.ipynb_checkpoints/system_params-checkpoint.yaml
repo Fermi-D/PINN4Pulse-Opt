@@ -1,0 +1,9 @@
+transmon:
+  dim: 4
+  #freq_ge:
+  #freq_ef:
+  dim:
+  anharmonicity: 0.2
+
+resonator:
+  freq_r:
