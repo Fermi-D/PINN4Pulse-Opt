@@ -1,1 +1,1 @@
-# robust-quantum-gates-using-smooth-pulses-and-physics-informed-neural-networks
+# Robust quantum gate with PINN
